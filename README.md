@@ -1,8 +1,12 @@
 ### Hi there 👋
-![redhat](https://img.shields.io/badge/YoudontneedtoknowwhatamIdoing-FFFC00?style=for-the-badge&logo=redhat&logoColor=34A853)
+- 🔭 I’m currently working as Game developer
+- 🌱 I’m currently learning design 3d model
+
 <!--
 **trieuvega/trieuvega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+/
+![redhat](https://img.shields.io/badge/YoudontneedtoknowwhatamIdoing-FFFC00?style=for-the-badge&logo=redhat&logoColor=34A853)
+/
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
