@@ -1,5 +1,5 @@
 ### Hi there 👋
-![redhat](https://img.shields.io/badge/"You-dont-need-to-know-what-am-I-doing"-FFFC00?style=for-the-badge&logo=redhat&logoColor=34A853)
+![redhat](https://img.shields.io/badge/You-dont-need-to-know-what-am-I-doing-FFFC00?style=for-the-badge&logo=redhat&logoColor=34A853)
 <!--
 **trieuvega/trieuvega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
